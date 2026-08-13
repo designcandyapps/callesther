@@ -1,5 +1,6 @@
 * { margin:0; padding:0; outline:0; border:0; font:10.5pt arial; line-height:15pt; } .s h2 { margin:-10px 0 12px 0; font-size:180%; } .ie li span { line-height:170%; }
-body { overflow-x:hidden; background:url(../img/b.jpg) repeat-x #000; } .z h4 { margin:0 0 3px -38px; font-size:100%; line-height:145%; } .z { margin:-20px 0 0 -2px; }
+body { overflow-x:hidden; background:/*url(../img/b.jpg) repeat-x/ #eaeaea; } .z h4 { margin:0 0 3px -38px; font-size:100%; line-height:145%; }
+
 #ib { margin:0 auto; width:1170px; background:url(../img/m.jpg) top center no-repeat #000; } table { border-collapse:collapse; border:0; } ul { margin:0 45px 0 40px; }
 #ib.sub { background-position:0 -35px; } .imL { float:left; margin:0 20px 20px 0; } .imR { float:right; margin:0 0 20px 20px; } i { font-size:80%; font-style:italic; }
 .inr { margin:0 auto; width:950px; } p,body { position:relative; } p { clear:both; margin-bottom:30px; } li span {font-size:85%; font-style:italic; line-height:160%; }
@@ -20,7 +21,7 @@ a.j { position:relative; top:-2px; left:5px; padding:0 4px 2px 4px; background:#
 #hdr { padding:10px 0; height:220px; } #hdr img { float:right; } #hdr .ac {background:none; } #nav li {float:left; list-style:none; } .gecko #nav a {padding:24px 12px; }
 #nav { float:none; margin-top:222px; width:80%; height:25px; background:#000; } .ie #nav { margin-top:204px; } .ie .sub #nav {margin-top:154px; } td {padding:7px 10px; }
 #nav ul { margin-left:-17px; } #nav a { margin:0 8px 0 0; padding:24px 8px; height:150px; background-color:transparent; text-transform:uppercase; color:#f8bb4f; }
-#nav a:hover,#nav a.ac { background:url(_img/arw.png) bottom center no-repeat; color:#fff; } #nav * { font:95% arial; font-weight:bold; }
+#nav a:hover,#nav a.ac { background:url(_img/arw.png) bottom center no-repeat; color:#fff; } #nav * { font:95% arial; font-weight:bold; } .z { margin:-20px 0 0 -2px; }
 
 #mid { position:relative; height:270px; background:url(../img/x.gif) bottom center repeat-x #fff; } .gecko #mid { top:2px; } #mid.sub { height:500px; font-size:100%; }
 #mid div { padding:40px; width:41.5%; font-size:110%; line-height:150%; color:#222; } .gecko #mid div { padding:35px 40px; } #mid.sub div div {padding:0; width:auto; }
