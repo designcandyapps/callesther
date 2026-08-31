@@ -2,6 +2,12 @@
 
 :root{font-family:hg,Helvetica Neue,Helvetica,sans-serif;font-size:12.5pt;font-smooth:always;font-weight:400;-ms-text-size-adjust:100%;-moz-font-smoothing:auto;-webkit-text-size-adjust:100%;-webkit-font-smoothing:auto;line-height:1.75;text-rendering:optimizeLegibility;vertical-align:top}*{margin:0;padding:0}*,:after,:before{box-sizing:inherit;color:inherit;font-family:inherit;line-height:inherit;text-decoration:inherit;vertical-align:inherit}
 
-* { margin:0; padding:0; outline:0; border:0; font:10.5pt arial; line-height:15pt; } body { overflow-x:hidden; padding:20px 30px; } table { border-collapse:collapse; border:0; } h5 { margin-bottom:10px; font:18pt/1.1 hg; letter-spacing:-.15pt; } ul { margin:0 45px 0 40px; } p,body { position:relative; } p { clear:both; margin-bottom:30px; } h1 { margin:-1px 0 20px -2px; font-size:200%; line-height:115%; letter-spacing:-1.5pt; } h3 { margin:0 0 8px 0; font-size:130%; } h2,h3 { margin:-10px 0 20px -2px; font-size:160%; } input,button { margin:0 12px 10px 1px; padding:9px 11px; width:250px; vertical-align:middle; border:1px solid #ccc; } button { width:auto; }
+* { margin:0; padding:0; outline:0; -border:0; font:10.5pt arial; line-height:15pt; } body { overflow-x:hidden; padding:40px 30px 20px 30px; } table { border-collapse:collapse; border:0; }
+
+h1 { font-size:220%; line-height:115%; letter-spacing:-1.5pt; } h2 { font-size:140%; } h1,h2 { margin:0 0 20px -2px; } h3 { margin:15px 0 5px 0; font-size:120%; } h3,.i { font-style:italic; } h5 { margin-bottom:10px; font:18pt/1.1 hg; letter-spacing:-.15pt; } .i { font-size:90%; }
+
+ul { margin:0 45px 0 40px; } p,body { position:relative; } p { clear:both; margin-bottom:30px; } a { padding:13px 16px; } a:hover { background:none; border:1px solid #eee; } a,button { background:#f1f1f1; border-radius:9px; }
+
+input,button { margin:0 12px 10px 1px; padding:9px 11px; width:250px; vertical-align:middle; border:1px solid #ccc; } button { width:auto; border:0; }
 
 #map { height:100vh; width:100vw; }
